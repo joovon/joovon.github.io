@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Helmer | joovonkim</title>
+    <link>/author/a-helmer/</link>
+      <atom:link href="/author/a-helmer/index.xml" rel="self" type="application/rss+xml" />
+    <description>A Helmer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Joo-Von Kim (2020)</copyright><lastBuildDate>Fri, 01 Apr 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>A Helmer</title>
+      <link>/author/a-helmer/</link>
+    </image>
+    
+    <item>
+      <title>Spin-torque switching window, thermal stability, and material parameters of MgO tunnel junctions</title>
+      <link>/publication/devolder-2011-iz/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/devolder-2011-iz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantized spin-wave modes in magnetic tunnel junction nanopillars</title>
+      <link>/publication/helmer-2010-ht/</link>
+      <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/helmer-2010-ht/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of patterning on the saturation magnetization in MgO based nanopillars</title>
+      <link>/publication/cornelissen-2009-gt/</link>
+      <pubDate>Sun, 01 Feb 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/cornelissen-2009-gt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

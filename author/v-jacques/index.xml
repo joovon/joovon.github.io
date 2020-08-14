@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>V Jacques | joovonkim</title>
+    <link>/author/v-jacques/</link>
+      <atom:link href="/author/v-jacques/index.xml" rel="self" type="application/rss+xml" />
+    <description>V Jacques</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Joo-Von Kim (2020)</copyright><lastBuildDate>Tue, 23 Jun 2020 16:23:05 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>V Jacques</title>
+      <link>/author/v-jacques/</link>
+    </image>
+    
+    <item>
+      <title>Imaging non-collinear antiferromagnetic textures via single spin relaxometry</title>
+      <link>/publication/finco-2020-arxiv-noise/</link>
+      <pubDate>Tue, 23 Jun 2020 16:23:05 +0000</pubDate>
+      <guid>/publication/finco-2020-arxiv-noise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-space imaging of non-collinear antiferromagnetic order with a single-spin magnetometer</title>
+      <link>/publication/gross-2017-by/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/gross-2017-by/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct measurement of interfacial Dzyaloshinskii-Moriya interaction in X|CoFeB|MgO heterostructures with a scanning NV magnetometer (X = Ta, TaN, and W)</title>
+      <link>/publication/gross-2016-hc/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/gross-2016-hc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The nature of domain walls in ultrathin ferromagnets revealed by scanning nanomagnetometry</title>
+      <link>/publication/tetienne-2015-ka/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/tetienne-2015-ka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nanoscale imaging and control of domain-wall hopping with a nitrogen-vacancy center microscope</title>
+      <link>/publication/tetienne-2014-bm/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/tetienne-2014-bm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

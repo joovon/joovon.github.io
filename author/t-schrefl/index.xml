@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T Schrefl | joovonkim</title>
+    <link>/author/t-schrefl/</link>
+      <atom:link href="/author/t-schrefl/index.xml" rel="self" type="application/rss+xml" />
+    <description>T Schrefl</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Joo-Von Kim (2020)</copyright><lastBuildDate>Thu, 01 Nov 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>T Schrefl</title>
+      <link>/author/t-schrefl/</link>
+    </image>
+    
+    <item>
+      <title>Magnetic Vortex Core Oscillations in Multi Point Contact Spin Valve Stacks</title>
+      <link>/publication/hrkac-2012-en/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/hrkac-2012-en/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence of oscillation modes on the line width of rf emissions in MgO based nanopillars</title>
+      <link>/publication/hrkac-2010-kb/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/hrkac-2010-kb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agility of vortex-based nanocontact spin torque oscillators</title>
+      <link>/publication/manfrini-2009-jc/</link>
+      <pubDate>Sun, 01 Nov 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/manfrini-2009-jc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Current-driven vortex oscillations in metallic nanocontacts: zero-field oscillations and training effects</title>
+      <link>/publication/van-kampen-2009-do/</link>
+      <pubDate>Sun, 01 Nov 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/van-kampen-2009-do/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Auto-oscillation threshold and line narrowing in MgO-based spin-torque oscillators</title>
+      <link>/publication/cornelissen-2009-id/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/cornelissen-2009-id/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental study of current-driven vortex oscillations in magnetic nanocontacts</title>
+      <link>/publication/devolder-2009-db/</link>
+      <pubDate>Sat, 01 Aug 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/devolder-2009-db/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time-resolved zero field vortex oscillations in point contacts</title>
+      <link>/publication/devolder-2009-bg/</link>
+      <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/devolder-2009-bg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Current-Driven Vortex Oscillations in Metallic Nanocontacts</title>
+      <link>/publication/mistral-2008-js/</link>
+      <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/mistral-2008-js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exchange bias of polycrystalline antiferromagnets with perfectly compensated interfaces</title>
+      <link>/publication/suess-2003-bw/</link>
+      <pubDate>Sat, 01 Feb 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/suess-2003-bw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Micromagnetic simulation of antiferromagnetic/ferromagnetic structures</title>
+      <link>/publication/suess-2002-ci/</link>
+      <pubDate>Sun, 01 Sep 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/suess-2002-ci/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

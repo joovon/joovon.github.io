@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>V Cros | joovonkim</title>
+    <link>/author/v-cros/</link>
+      <atom:link href="/author/v-cros/index.xml" rel="self" type="application/rss+xml" />
+    <description>V Cros</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Joo-Von Kim (2020)</copyright><lastBuildDate>Tue, 23 Jun 2020 16:23:05 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>V Cros</title>
+      <link>/author/v-cros/</link>
+    </image>
+    
+    <item>
+      <title>Imaging non-collinear antiferromagnetic textures via single spin relaxometry</title>
+      <link>/publication/finco-2020-arxiv-noise/</link>
+      <pubDate>Tue, 23 Jun 2020 16:23:05 +0000</pubDate>
+      <guid>/publication/finco-2020-arxiv-noise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pattern generation and symbolic dynamics in a nanocontact vortex oscillator</title>
+      <link>/publication/yoo-2020-il/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/yoo-2020-il/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chaos in Magnetic Nanocontact Vortex Oscillators</title>
+      <link>/publication/devolder-2019-gm/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/devolder-2019-gm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modulation and phase-locking in nanocontact vortex oscillators</title>
+      <link>/publication/letang-2019-fo/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/letang-2019-fo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skyrmion Gas Manipulation for Probabilistic Computing</title>
+      <link>/publication/pinna-2018-gj/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/pinna-2018-gj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Current-driven skyrmion expulsion from magnetic nanostrips</title>
+      <link>/publication/yoo-2017-fd/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/yoo-2017-fd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A skyrmion-based spin-torque nano-oscillator</title>
+      <link>/publication/garcia-sanchez-2016-cx/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/garcia-sanchez-2016-cx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spin wave amplification using the spin Hall effect in permalloy/platinum bilayers</title>
+      <link>/publication/gladii-2016-jf/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/gladii-2016-jf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magnetic Stochastic Oscillators: Noise-Induced Synchronization to Underthreshold Excitation and Comprehensive Compact Model</title>
+      <link>/publication/mizrahi-2015-fa/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/mizrahi-2015-fa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Noise-Enhanced Synchronization of Stochastic Magnetic Oscillators</title>
+      <link>/publication/locatelli-2014-ii/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/locatelli-2014-ii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spin torque nanodevices for bio-inspired computing</title>
+      <link>/publication/locatelli-2014-kk/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/locatelli-2014-kk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Breathing modes of confined skyrmions in ultrathin magnetic dots</title>
+      <link>/publication/kim-2014-cm/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/kim-2014-cm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Commensurability and chaos in magnetic vortex oscillations</title>
+      <link>/publication/petit-watelot-2012-be/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/petit-watelot-2012-be/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L Wee | joovonkim</title>
+    <link>/author/l-wee/</link>
+      <atom:link href="/author/l-wee/index.xml" rel="self" type="application/rss+xml" />
+    <description>L Wee</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Joo-Von Kim (2020)</copyright><lastBuildDate>Sat, 01 Apr 2000 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>L Wee</title>
+      <link>/author/l-wee/</link>
+    </image>
+    
+    <item>
+      <title>Temperature dependence of exchange biased thin films</title>
+      <link>/publication/mc-grath-bv-2000-us/</link>
+      <pubDate>Sat, 01 Apr 2000 00:00:00 +0000</pubDate>
+      <guid>/publication/mc-grath-bv-2000-us/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exchange bias: interface imperfections and temperature dependence</title>
+      <link>/publication/kim-1999-ck/</link>
+      <pubDate>Wed, 01 Sep 1999 00:00:00 +0000</pubDate>
+      <guid>/publication/kim-1999-ck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magnetization dynamics: A study of the ferromagnet/antiferromagnet interface and exchange biasing</title>
+      <link>/publication/camley-1999-fy/</link>
+      <pubDate>Thu, 01 Jul 1999 00:00:00 +0000</pubDate>
+      <guid>/publication/camley-1999-fy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

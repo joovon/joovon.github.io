@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B Ockert | joovonkim</title>
+    <link>/author/b-ockert/</link>
+      <atom:link href="/author/b-ockert/index.xml" rel="self" type="application/rss+xml" />
+    <description>B Ockert</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Joo-Von Kim (2020)</copyright><lastBuildDate>Tue, 01 Oct 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>B Ockert</title>
+      <link>/author/b-ockert/</link>
+    </image>
+    
+    <item>
+      <title>Low depinning fields in Ta-CoFeB-MgO ultrathin films with perpendicular magnetic anisotropy</title>
+      <link>/publication/burrowes-2013-jl/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/burrowes-2013-jl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Damping of CoxFe80xB20 ultrathin films with perpendicular magnetic anisotropy</title>
+      <link>/publication/devolder-2013-hq/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/devolder-2013-hq/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

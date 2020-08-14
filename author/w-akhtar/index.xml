@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>W Akhtar | joovonkim</title>
+    <link>/author/w-akhtar/</link>
+      <atom:link href="/author/w-akhtar/index.xml" rel="self" type="application/rss+xml" />
+    <description>W Akhtar</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Joo-Von Kim (2020)</copyright><lastBuildDate>Tue, 23 Jun 2020 16:23:05 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>W Akhtar</title>
+      <link>/author/w-akhtar/</link>
+    </image>
+    
+    <item>
+      <title>Imaging non-collinear antiferromagnetic textures via single spin relaxometry</title>
+      <link>/publication/finco-2020-arxiv-noise/</link>
+      <pubDate>Tue, 23 Jun 2020 16:23:05 +0000</pubDate>
+      <guid>/publication/finco-2020-arxiv-noise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-space imaging of non-collinear antiferromagnetic order with a single-spin magnetometer</title>
+      <link>/publication/gross-2017-by/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/gross-2017-by/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

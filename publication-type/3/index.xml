@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | joovonkim</title>
+    <link>/publication-type/3/</link>
+      <atom:link href="/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Joo-Von Kim (2020)</copyright><lastBuildDate>Sun, 02 Aug 2020 18:33:51 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>3</title>
+      <link>/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>On quantifying the topological charge in micromagnetics using a lattice-based approach</title>
+      <link>/publication/kim-2020-arxiv-topo/</link>
+      <pubDate>Sun, 02 Aug 2020 18:33:51 +0200</pubDate>
+      <guid>/publication/kim-2020-arxiv-topo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying the thermal stability in perpendicularly-magnetized ferromagnetic nanodisks with forward flux sampling</title>
+      <link>/publication/desplat-2020-arxiv-ffs/</link>
+      <pubDate>Tue, 28 Jul 2020 19:46:26 +0200</pubDate>
+      <guid>/publication/desplat-2020-arxiv-ffs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asymmetric skyrmion-antiskyrmion production in ultrathin ferromagnetic films</title>
+      <link>/publication/ritzmann-2020-arxiv-skyrmio/</link>
+      <pubDate>Tue, 21 Jul 2020 12:21:45 +0000</pubDate>
+      <guid>/publication/ritzmann-2020-arxiv-skyrmio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entropy-reduced retention times in magnetic memory elements: A case of the Meyer-Neldel Compensation Rule</title>
+      <link>/publication/desplat-2020-arxiv-compensation/</link>
+      <pubDate>Sat, 04 Jul 2020 18:04:16 +0000</pubDate>
+      <guid>/publication/desplat-2020-arxiv-compensation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Imaging non-collinear antiferromagnetic textures via single spin relaxometry</title>
+      <link>/publication/finco-2020-arxiv-noise/</link>
+      <pubDate>Tue, 23 Jun 2020 16:23:05 +0000</pubDate>
+      <guid>/publication/finco-2020-arxiv-noise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analytical model of the inertial dynamics of a magnetic vortex</title>
+      <link>/publication/yoo-2020-arxiv-vortex/</link>
+      <pubDate>Thu, 04 Jun 2020 14:04:27 +0000</pubDate>
+      <guid>/publication/yoo-2020-arxiv-vortex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of delayed feedback on the power spectrum of spin-torque nano-oscillators</title>
+      <link>/publication/williame-2020-arxiv-stno/</link>
+      <pubDate>Thu, 21 May 2020 18:25:09 +0200</pubDate>
+      <guid>/publication/williame-2020-arxiv-stno/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

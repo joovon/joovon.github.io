@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D Querlioz | joovonkim</title>
+    <link>/author/d-querlioz/</link>
+      <atom:link href="/author/d-querlioz/index.xml" rel="self" type="application/rss+xml" />
+    <description>D Querlioz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Joo-Von Kim (2020)</copyright><lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>D Querlioz</title>
+      <link>/author/d-querlioz/</link>
+    </image>
+    
+    <item>
+      <title>Skyrmion Gas Manipulation for Probabilistic Computing</title>
+      <link>/publication/pinna-2018-gj/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/pinna-2018-gj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Role of spin-transfer torques on synchronization and resonance phenomena in stochastic magnetic oscillators</title>
+      <link>/publication/accioly-2016-hu/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/accioly-2016-hu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magnetic Stochastic Oscillators: Noise-Induced Synchronization to Underthreshold Excitation and Comprehensive Compact Model</title>
+      <link>/publication/mizrahi-2015-fa/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/mizrahi-2015-fa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spintronic devices as key elements for energy-efficient neuroinspired architectures</title>
+      <link>/publication/locatelli-2015-uc/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/locatelli-2015-uc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Noise-Enhanced Synchronization of Stochastic Magnetic Oscillators</title>
+      <link>/publication/locatelli-2014-ii/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/locatelli-2014-ii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spin torque nanodevices for bio-inspired computing</title>
+      <link>/publication/locatelli-2014-kk/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/locatelli-2014-kk/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

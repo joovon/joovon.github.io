@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B Dupé | joovonkim</title>
+    <link>/author/b-dupe/</link>
+      <atom:link href="/author/b-dupe/index.xml" rel="self" type="application/rss+xml" />
+    <description>B Dupé</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Joo-Von Kim (2020)</copyright><lastBuildDate>Mon, 31 Aug 2020 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>B Dupé</title>
+      <link>/author/b-dupe/</link>
+    </image>
+    
+    <item>
+      <title>Skyrmiogenesis: Asymmetric skyrmion-antiskyrmion production in ultrathin ferromagnetic films</title>
+      <link>/talk/my-talk-name/</link>
+      <pubDate>Mon, 31 Aug 2020 00:00:00 +0200</pubDate>
+      <guid>/talk/my-talk-name/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asymmetric skyrmion-antiskyrmion production in ultrathin ferromagnetic films</title>
+      <link>/publication/ritzmann-2020-arxiv-skyrmio/</link>
+      <pubDate>Tue, 21 Jul 2020 12:21:45 +0000</pubDate>
+      <guid>/publication/ritzmann-2020-arxiv-skyrmio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trochoidal motion and pair generation in skyrmion and antiskyrmion dynamics under spin–orbit torques</title>
+      <link>/publication/ritzmann-2018-cc/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/ritzmann-2018-cc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

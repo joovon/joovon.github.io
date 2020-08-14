@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S Petit-Watelot | joovonkim</title>
+    <link>/author/s-petit-watelot/</link>
+      <atom:link href="/author/s-petit-watelot/index.xml" rel="self" type="application/rss+xml" />
+    <description>S Petit-Watelot</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Joo-Von Kim (2020)</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>S Petit-Watelot</title>
+      <link>/author/s-petit-watelot/</link>
+    </image>
+    
+    <item>
+      <title>Pattern generation and symbolic dynamics in a nanocontact vortex oscillator</title>
+      <link>/publication/yoo-2020-il/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/yoo-2020-il/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chaos in Magnetic Nanocontact Vortex Oscillators</title>
+      <link>/publication/devolder-2019-gm/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/devolder-2019-gm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modulation and phase-locking in nanocontact vortex oscillators</title>
+      <link>/publication/letang-2019-fo/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/letang-2019-fo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nanocontact based spin torque oscillators with two free layers</title>
+      <link>/publication/soucaille-2017-jq/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/soucaille-2017-jq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamical influence of vortex–antivortex pairs in magnetic vortex oscillators</title>
+      <link>/publication/otxoa-2015-cj/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/otxoa-2015-cj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Propagation of magnetic vortices using nanocontacts as tunable attractors</title>
+      <link>/publication/manfrini-2014-bl/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/manfrini-2014-bl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding Nanoscale Temperature Gradients in Magnetic Nanocontacts</title>
+      <link>/publication/petit-watelot-2012-ik/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/petit-watelot-2012-ik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Commensurability and chaos in magnetic vortex oscillations</title>
+      <link>/publication/petit-watelot-2012-be/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/petit-watelot-2012-be/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vortex Nucleation Phase in Spin Torque Oscillators Based on Nanocontacts</title>
+      <link>/publication/devolder-2011-iw/</link>
+      <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/devolder-2011-iw/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

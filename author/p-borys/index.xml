@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P Borys | joovonkim</title>
+    <link>/author/p-borys/</link>
+      <atom:link href="/author/p-borys/index.xml" rel="self" type="application/rss+xml" />
+    <description>P Borys</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Joo-Von Kim (2020)</copyright><lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>P Borys</title>
+      <link>/author/p-borys/</link>
+    </image>
+    
+    <item>
+      <title>Spin Waves on Spin Structures: Topology, Localization, and Nonreciprocity</title>
+      <link>/publication/stamps-2017-cs/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/stamps-2017-cs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spin-Wave Eigenmodes of Dzyaloshinskii Domain Walls</title>
+      <link>/publication/borys-2015-ba/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/borys-2015-ba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Narrow Magnonic Waveguides Based on Domain Walls</title>
+      <link>/publication/garcia-sanchez-2015-kc/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/garcia-sanchez-2015-kc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonreciprocal spin-wave channeling along textures driven by the Dzyaloshinskii-Moriya interaction</title>
+      <link>/publication/garcia-sanchez-2014-dw/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/garcia-sanchez-2014-dw/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

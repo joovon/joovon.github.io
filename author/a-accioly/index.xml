@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Accioly | joovonkim</title>
+    <link>/author/a-accioly/</link>
+      <atom:link href="/author/a-accioly/index.xml" rel="self" type="application/rss+xml" />
+    <description>A Accioly</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Joo-Von Kim (2020)</copyright><lastBuildDate>Thu, 01 Sep 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>A Accioly</title>
+      <link>/author/a-accioly/</link>
+    </image>
+    
+    <item>
+      <title>Role of spin-transfer torques on synchronization and resonance phenomena in stochastic magnetic oscillators</title>
+      <link>/publication/accioly-2016-hu/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/accioly-2016-hu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Noise-Enhanced Synchronization of Stochastic Magnetic Oscillators</title>
+      <link>/publication/locatelli-2014-ii/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/locatelli-2014-ii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spin torque nanodevices for bio-inspired computing</title>
+      <link>/publication/locatelli-2014-kk/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/locatelli-2014-kk/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

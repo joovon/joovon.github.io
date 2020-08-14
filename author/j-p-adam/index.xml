@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J-P Adam | joovonkim</title>
+    <link>/author/j-p-adam/</link>
+      <atom:link href="/author/j-p-adam/index.xml" rel="self" type="application/rss+xml" />
+    <description>J-P Adam</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Joo-Von Kim (2020)</copyright><lastBuildDate>Tue, 23 Jun 2020 16:23:05 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>J-P Adam</title>
+      <link>/author/j-p-adam/</link>
+    </image>
+    
+    <item>
+      <title>Imaging non-collinear antiferromagnetic textures via single spin relaxometry</title>
+      <link>/publication/finco-2020-arxiv-noise/</link>
+      <pubDate>Tue, 23 Jun 2020 16:23:05 +0000</pubDate>
+      <guid>/publication/finco-2020-arxiv-noise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chaos in Magnetic Nanocontact Vortex Oscillators</title>
+      <link>/publication/devolder-2019-gm/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/devolder-2019-gm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonreciprocal flexural dynamics of Dzyaloshinskii domain walls</title>
+      <link>/publication/soucaille-2018-bb/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/soucaille-2018-bb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probing the Dzyaloshinskii-Moriya interaction in CoFeB ultrathin films using domain wall creep and Brillouin light spectroscopy</title>
+      <link>/publication/soucaille-2016-ed/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/soucaille-2016-ed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct measurement of interfacial Dzyaloshinskii-Moriya interaction in X|CoFeB|MgO heterostructures with a scanning NV magnetometer (X = Ta, TaN, and W)</title>
+      <link>/publication/gross-2016-hc/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/gross-2016-hc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Narrow Magnonic Waveguides Based on Domain Walls</title>
+      <link>/publication/garcia-sanchez-2015-kc/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/garcia-sanchez-2015-kc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interfacial Dzyaloshinskii-Moriya interaction in perpendicularly magnetized Pt/Co/AlOx ultrathin films measured by Brillouin light spectroscopy</title>
+      <link>/publication/belmeguenai-2015-hj/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/belmeguenai-2015-hj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The nature of domain walls in ultrathin ferromagnets revealed by scanning nanomagnetometry</title>
+      <link>/publication/tetienne-2015-ka/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/tetienne-2015-ka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nanoscale imaging and control of domain-wall hopping with a nitrogen-vacancy center microscope</title>
+      <link>/publication/tetienne-2014-bm/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/tetienne-2014-bm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low depinning fields in Ta-CoFeB-MgO ultrathin films with perpendicular magnetic anisotropy</title>
+      <link>/publication/burrowes-2013-jl/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/burrowes-2013-jl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Damping of CoxFe80xB20 ultrathin films with perpendicular magnetic anisotropy</title>
+      <link>/publication/devolder-2013-hq/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/devolder-2013-hq/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

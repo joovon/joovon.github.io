@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F Garcia-Sanchez | joovonkim</title>
+    <link>/author/f-garcia-sanchez/</link>
+      <atom:link href="/author/f-garcia-sanchez/index.xml" rel="self" type="application/rss+xml" />
+    <description>F Garcia-Sanchez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Joo-Von Kim (2020)</copyright><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>F Garcia-Sanchez</title>
+      <link>/author/f-garcia-sanchez/</link>
+    </image>
+    
+    <item>
+      <title>Nonreciprocal flexural dynamics of Dzyaloshinskii domain walls</title>
+      <link>/publication/soucaille-2018-bb/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/soucaille-2018-bb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spin Waves on Spin Structures: Topology, Localization, and Nonreciprocity</title>
+      <link>/publication/stamps-2017-cs/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/stamps-2017-cs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A skyrmion-based spin-torque nano-oscillator</title>
+      <link>/publication/garcia-sanchez-2016-cx/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/garcia-sanchez-2016-cx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time-resolved spin-torque switching in MgO-based perpendicularly magnetized tunnel junctions</title>
+      <link>/publication/devolder-2016-dg/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/devolder-2016-dg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spin-Wave Eigenmodes of Dzyaloshinskii Domain Walls</title>
+      <link>/publication/borys-2015-ba/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/borys-2015-ba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Current-driven asymmetric magnetization switching in perpendicularly magnetized CoFeB/MgO heterostructures</title>
+      <link>/publication/torrejon-2015-jy/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/torrejon-2015-jy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Narrow Magnonic Waveguides Based on Domain Walls</title>
+      <link>/publication/garcia-sanchez-2015-kc/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/garcia-sanchez-2015-kc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Breathing modes of confined skyrmions in ultrathin magnetic dots</title>
+      <link>/publication/kim-2014-cm/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/kim-2014-cm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonreciprocal spin-wave channeling along textures driven by the Dzyaloshinskii-Moriya interaction</title>
+      <link>/publication/garcia-sanchez-2014-dw/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/garcia-sanchez-2014-dw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-adiabatic spin-torques in narrow magnetic domain walls</title>
+      <link>/publication/burrowes-2010-fl/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/burrowes-2010-fl/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

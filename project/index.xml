@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | joovonkim</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Joo-Von Kim (2020)</copyright><lastBuildDate>Sat, 01 Aug 2020 10:48:48 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>CHIPMuNCS</title>
+      <link>/project/chipmuncs/</link>
+      <pubDate>Sat, 01 Aug 2020 10:48:48 +0200</pubDate>
+      <guid>/project/chipmuncs/</guid>
+      <description>&lt;h2 id=&#34;chaos-based-information-processing-with-magnetic-nano-oscillators&#34;&gt;Chaos-based information processing with magnetic nano-oscillators&lt;/h2&gt;
+&lt;p&gt;Project website: 
+&lt;a href=&#34;http://www.chipmuncs.universite-paris-saclay.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.chipmuncs.universite-paris-saclay.fr&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I am the coordinator of CHIPMuNCS, which is a frontier research project at the interface between nanomagnetism, spintronics, and nonlinear dynamics. It is motivated by the premise that the rich behaviour of nonlinear systems, in particular chaos, can be leveraged for alternative paradigms for computing and information processing.&lt;/p&gt;
+&lt;p&gt;The primary objective is to establish the utility and feasibility of the nanocontact vortex oscillator, a nanoscale spintronic device, as a universal building block for chaos-based information processing by demonstrating three technological functionalities: random number generation, secure communications, and nonlinear computing. The underlying idea is that the complexity required for computation and possible cognitive functions can be generated within a single system, without the need of a complex array of interconnected subsystems. The project addresses the pressing challenges raised by the current information revolution, with the exponential growth of digital data, spurred by the internet, the ubiquity of “smartphones”, and unprecedented scientific advances in data-intensive fields from genetics to social networks. Identifying useful patterns amongst such vast oceans of bits is a timely and formidable challenge for current technologies.&lt;/p&gt;
+&lt;p&gt;The project consortium members are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.c2n.universite-paris-saclay.fr/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Centre de Nanosciences et de Nanotechnologies&lt;/a&gt; (CNRS/Univ. Paris-Saclay), Palaiseau&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://lmops.univ-lorraine.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Laboratoire Matériaux Optiques, Photonique et Systèmes&lt;/a&gt; (CentraleSupélec/Univ. Lorraine), Metz&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://ijl.univ-lorraine.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Institut Jean Lamour&lt;/a&gt; (CNRS/Univ. Lorraine), Nancy&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://cnrs-thales.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Unité Mixte de Physique&lt;/a&gt; (CNRS/Thales/Univ. Paris-Saclay), Palaiseau&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;CHIPMuNCS is funded by the 
+&lt;a href=&#34;https://anr.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Agence Nationale de la Recherche&lt;/a&gt; under grant number ANR-17-CE24-0008.&lt;/p&gt;
+&lt;p&gt;The project runs from 1 February 2018 to 31 January 2022.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ChaoSpin</title>
+      <link>/project/chaospin/</link>
+      <pubDate>Thu, 01 Feb 2018 09:00:00 +0200</pubDate>
+      <guid>/project/chaospin/</guid>
+      <description>&lt;h2 id=&#34;chaos-based-information-processing-using-spintronic-nano-oscillators&#34;&gt;Chaos-based information processing using spintronic nano-oscillators&lt;/h2&gt;
+&lt;p&gt;ChaoSpin was a frontier research project at the interface between nanomagnetism, spintronics, and nonlinear dynamics. The project was led by Dr. Myoung-Woo Yoo as part of his Marie Skłodowska-Curie fellowship that ran from 1 February 2018 to 31 January 2020.&lt;/p&gt;
+&lt;p&gt;The project was motivated by the premise that the rich behaviour of nonlinear systems, in particular chaos, can be leveraged for alternative computing paradigms. The primary objective was to establish the utility and feasibility of the nanocontact vortex oscillator, a nanoscale spintronic device, as a universal building block for chaos-based information processing by demonstrating key technological functionalities, such as random number generation and communication using symbolic dynamics. The underlying idea is that the complexity required for computation and possible cognitive functions can be generated within a single system, without the need of a complex array of interconnected subsystems. The project built upon the NOMADE group’s discovery of novel commensurate and chaotic phases in the nanocontact vortex oscillator.&lt;/p&gt;
+&lt;p&gt;The project objectives were defined by three scientific questions related to magnetic vortex dynamics on the nanoscale, namely:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Can the chaotic state be detected experimentally?&lt;/li&gt;
+&lt;li&gt;How does the chaotic state respond to external forcing?&lt;/li&gt;
+&lt;li&gt;Can the chaotic state be exploited for information processing?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These questions were addressed by combining the use of high-performance simulation tools and quantitative theories with state-of-the-art experiments involving high-frequency electrical characterisation.&lt;/p&gt;
+&lt;p&gt;This project has funded by the Horizon2020 Research Framework Programme of the European Commission under contract no. 751344.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TOPSKY</title>
+      <link>/project/topsky/</link>
+      <pubDate>Wed, 01 Nov 2017 09:00:00 +0200</pubDate>
+      <guid>/project/topsky/</guid>
+      <description>&lt;h2 id=&#34;topological-properties-of-magnetic-skyrmions-and-opportunities-for-novel-spintronic-devices&#34;&gt;Topological properties of magnetic skyrmions and opportunities for novel spintronic devices&lt;/h2&gt;
+&lt;p&gt;The scientific objectives should allow us to achieve a better control of the generation, the manipulation, the excitation and the detection of ultra-small skyrmions in magnetic multilayer systems. These are compulsory technical objectives as they correspond to the basic functions needed for any type of skyrmion based devices such as memory, radiofrequency or logic devices, as the ones that will be designed, fabricated and evaluated in TOPSKY.&lt;/p&gt;
+&lt;p&gt;In the ANR TOPSKY, we focus our efforts on the identification and in-depth characterization of new systems optimized from different types of magnetic multilayer, allowing the observation and use of skyrmions of sizes in the order of 10 nm, moving at speeds above 100 m/s with, if possible, lower current densities (&amp;lt;0.1 TA/m²). Beyond the new scientific breakthroughs in skyrmion physics that we hope to achieve through our research, TOPSKY&amp;rsquo;s main technical objective is to contribute to a potential revolution in information technology by bringing these fascinating topological magnetic objects into a new generation of topological and electronic devices operating at room temperature.&lt;/p&gt;
+&lt;p&gt;The project is coordinated by Dr. Nicolas Reyren of the Unité Mixte de Physique CNRS/Thales. The consortium members are&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://cnrs-thales.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Unité Mixte de Physique&lt;/a&gt; (CNRS/Thales/Univ. Paris-Saclay), Palaiseau&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.lps.u-psud.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Laboratoire de Physique des Solides&lt;/a&gt; (CNRS/Univ. Paris-Saclay), Orsay&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://neel.cnrs.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Institut Néel&lt;/a&gt; (CNRS), Grenoble&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://coulomb.umontpellier.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Laboratoire Charles Coulomb&lt;/a&gt; (CNRS/Univ. Montpellier), Montpellier&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://iramis.cea.fr/spec/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Service de Physique de l&amp;rsquo;État Condensé&lt;/a&gt; (CEA/CNRS/Univ. Paris-Saclay), Gif-sur-Yvette&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.c2n.universite-paris-saclay.fr/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Centre de Nanosciences et de Nanotechnologies&lt;/a&gt; (CNRS/Univ. Paris-Saclay), Palaiseau&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;TOPSKY is funded by the Agence Nationale de la Recherche under grant number ANR-17-CE24-0025.&lt;/p&gt;
+&lt;p&gt;The project runs from 1 November 2017 to 31 October 2021.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L Bianchini | joovonkim</title>
+    <link>/author/l-bianchini/</link>
+      <atom:link href="/author/l-bianchini/index.xml" rel="self" type="application/rss+xml" />
+    <description>L Bianchini</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Joo-Von Kim (2020)</copyright><lastBuildDate>Fri, 01 Apr 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>L Bianchini</title>
+      <link>/author/l-bianchini/</link>
+    </image>
+    
+    <item>
+      <title>Spin-torque switching window, thermal stability, and material parameters of MgO tunnel junctions</title>
+      <link>/publication/devolder-2011-iz/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/devolder-2011-iz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct experimental measurement of phase-amplitude coupling in spin torque oscillators</title>
+      <link>/publication/bianchini-2010-eq/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/bianchini-2010-eq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Free layer versus synthetic ferrimagnet layer auto-oscillations in nanopillars processed from MgO-based magnetic tunnel junctions</title>
+      <link>/publication/cornelissen-2010-dz/</link>
+      <pubDate>Thu, 01 Apr 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/cornelissen-2010-dz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Auto-oscillation and narrow spectral lines in spin-torque oscillators based on MgO magnetic tunnel junctions</title>
+      <link>/publication/devolder-2009-fh/</link>
+      <pubDate>Sun, 01 Nov 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/devolder-2009-fh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Auto-oscillation threshold and line narrowing in MgO-based spin-torque oscillators</title>
+      <link>/publication/cornelissen-2009-id/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/cornelissen-2009-id/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of patterning on the saturation magnetization in MgO based nanopillars</title>
+      <link>/publication/cornelissen-2009-gt/</link>
+      <pubDate>Sun, 01 Feb 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/cornelissen-2009-gt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

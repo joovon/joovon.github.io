@@ -1,0 +1,976 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | joovonkim</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Joo-Von Kim (2020)</copyright><lastBuildDate>Sun, 02 Aug 2020 18:33:51 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>On quantifying the topological charge in micromagnetics using a lattice-based approach</title>
+      <link>/publication/kim-2020-arxiv-topo/</link>
+      <pubDate>Sun, 02 Aug 2020 18:33:51 +0200</pubDate>
+      <guid>/publication/kim-2020-arxiv-topo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying the thermal stability in perpendicularly-magnetized ferromagnetic nanodisks with forward flux sampling</title>
+      <link>/publication/desplat-2020-arxiv-ffs/</link>
+      <pubDate>Tue, 28 Jul 2020 19:46:26 +0200</pubDate>
+      <guid>/publication/desplat-2020-arxiv-ffs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asymmetric skyrmion-antiskyrmion production in ultrathin ferromagnetic films</title>
+      <link>/publication/ritzmann-2020-arxiv-skyrmio/</link>
+      <pubDate>Tue, 21 Jul 2020 12:21:45 +0000</pubDate>
+      <guid>/publication/ritzmann-2020-arxiv-skyrmio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entropy-reduced retention times in magnetic memory elements: A case of the Meyer-Neldel Compensation Rule</title>
+      <link>/publication/desplat-2020-arxiv-compensation/</link>
+      <pubDate>Sat, 04 Jul 2020 18:04:16 +0000</pubDate>
+      <guid>/publication/desplat-2020-arxiv-compensation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Imaging non-collinear antiferromagnetic textures via single spin relaxometry</title>
+      <link>/publication/finco-2020-arxiv-noise/</link>
+      <pubDate>Tue, 23 Jun 2020 16:23:05 +0000</pubDate>
+      <guid>/publication/finco-2020-arxiv-noise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analytical model of the inertial dynamics of a magnetic vortex</title>
+      <link>/publication/yoo-2020-arxiv-vortex/</link>
+      <pubDate>Thu, 04 Jun 2020 14:04:27 +0000</pubDate>
+      <guid>/publication/yoo-2020-arxiv-vortex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of delayed feedback on the power spectrum of spin-torque nano-oscillators</title>
+      <link>/publication/williame-2020-arxiv-stno/</link>
+      <pubDate>Thu, 21 May 2020 18:25:09 +0200</pubDate>
+      <guid>/publication/williame-2020-arxiv-stno/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Path sampling for lifetimes of metastable magnetic skyrmions and direct comparison with Kramers&#39; method</title>
+      <link>/publication/desplat-2020-fa/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/desplat-2020-fa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Determining Key Spin-Orbitronic Parameters via Propagating Spin Waves</title>
+      <link>/publication/gladii-2020-bs/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/gladii-2020-bs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pattern generation and symbolic dynamics in a nanocontact vortex oscillator</title>
+      <link>/publication/yoo-2020-il/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/yoo-2020-il/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chaos in Magnetic Nanocontact Vortex Oscillators</title>
+      <link>/publication/devolder-2019-gm/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/devolder-2019-gm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modulation and phase-locking in nanocontact vortex oscillators</title>
+      <link>/publication/letang-2019-fo/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/letang-2019-fo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unidirectional spin-wave channeling along magnetic domain walls of Bloch type</title>
+      <link>/publication/henry-2019-dp/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/henry-2019-dp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chaotic dynamics in a macrospin spin-torque nano-oscillator with delayed feedback</title>
+      <link>/publication/williame-2019-hd/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/williame-2019-hd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paths to annihilation of first- and second-order (anti)skyrmions via (anti)meron nucleation on the frustrated square lattice</title>
+      <link>/publication/desplat-2019-dn/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/desplat-2019-dn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Domain-wall motion and interfacial Dzyaloshinskii-Moriya interactions in Pt/Co/Ir(t$_{Ir}$)/Ta multilayers</title>
+      <link>/publication/shahbazi-2019-fz/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/shahbazi-2019-fz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thermal stability of metastable magnetic skyrmions: Entropic narrowing and significance of internal eigenmodes</title>
+      <link>/publication/desplat-2018-cg/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/desplat-2018-cg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonreciprocal flexural dynamics of Dzyaloshinskii domain walls</title>
+      <link>/publication/soucaille-2018-bb/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/soucaille-2018-bb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trochoidal motion and pair generation in skyrmion and antiskyrmion dynamics under spin–orbit torques</title>
+      <link>/publication/ritzmann-2018-cc/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/ritzmann-2018-cc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skyrmion Gas Manipulation for Probabilistic Computing</title>
+      <link>/publication/pinna-2018-gj/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/pinna-2018-gj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-space imaging of non-collinear antiferromagnetic order with a single-spin magnetometer</title>
+      <link>/publication/gross-2017-by/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/gross-2017-by/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spin Waves on Spin Structures: Topology, Localization, and Nonreciprocity</title>
+      <link>/publication/stamps-2017-cs/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/stamps-2017-cs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Current-driven skyrmion expulsion from magnetic nanostrips</title>
+      <link>/publication/yoo-2017-fd/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/yoo-2017-fd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Current-driven skyrmion dynamics in disordered films</title>
+      <link>/publication/kim-2017-do/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/kim-2017-do/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spin transfer and spin-orbit torques in in-plane magnetized (Ga,Mn)As tracks</title>
+      <link>/publication/thevenard-2017-fn/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/thevenard-2017-fn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nanocontact based spin torque oscillators with two free layers</title>
+      <link>/publication/soucaille-2017-jq/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/soucaille-2017-jq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exchange stiffness in ultrathin perpendicularly magnetized CoFeB layers determined using the spectroscopy of electrically excited spin waves</title>
+      <link>/publication/devolder-2016-gn/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/devolder-2016-gn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spin Wave Power Flow and Caustics in Ultrathin Ferromagnets with the Dzyaloshinskii-Moriya Interaction</title>
+      <link>/publication/kim-2016-cw/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/kim-2016-cw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probing the Dzyaloshinskii-Moriya interaction in CoFeB ultrathin films using domain wall creep and Brillouin light spectroscopy</title>
+      <link>/publication/soucaille-2016-ed/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/soucaille-2016-ed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Role of spin-transfer torques on synchronization and resonance phenomena in stochastic magnetic oscillators</title>
+      <link>/publication/accioly-2016-hu/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/accioly-2016-hu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct measurement of interfacial Dzyaloshinskii-Moriya interaction in X|CoFeB|MgO heterostructures with a scanning NV magnetometer (X = Ta, TaN, and W)</title>
+      <link>/publication/gross-2016-hc/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/gross-2016-hc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A skyrmion-based spin-torque nano-oscillator</title>
+      <link>/publication/garcia-sanchez-2016-cx/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/garcia-sanchez-2016-cx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spin wave amplification using the spin Hall effect in permalloy/platinum bilayers</title>
+      <link>/publication/gladii-2016-jf/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/gladii-2016-jf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time-resolved spin-torque switching in MgO-based perpendicularly magnetized tunnel junctions</title>
+      <link>/publication/devolder-2016-dg/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/devolder-2016-dg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spin-Wave Eigenmodes of Dzyaloshinskii Domain Walls</title>
+      <link>/publication/borys-2015-ba/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/borys-2015-ba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamical influence of vortex–antivortex pairs in magnetic vortex oscillators</title>
+      <link>/publication/otxoa-2015-cj/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/otxoa-2015-cj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magnetic Stochastic Oscillators: Noise-Induced Synchronization to Underthreshold Excitation and Comprehensive Compact Model</title>
+      <link>/publication/mizrahi-2015-fa/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/mizrahi-2015-fa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Role of nonlinear anisotropic damping in the magnetization dynamics of topological solitons</title>
+      <link>/publication/kim-2015-bv/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/kim-2015-bv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Current-driven asymmetric magnetization switching in perpendicularly magnetized CoFeB/MgO heterostructures</title>
+      <link>/publication/torrejon-2015-jy/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/torrejon-2015-jy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Narrow Magnonic Waveguides Based on Domain Walls</title>
+      <link>/publication/garcia-sanchez-2015-kc/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/garcia-sanchez-2015-kc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interfacial Dzyaloshinskii-Moriya interaction in perpendicularly magnetized Pt/Co/AlOx ultrathin films measured by Brillouin light spectroscopy</title>
+      <link>/publication/belmeguenai-2015-hj/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/belmeguenai-2015-hj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The nature of domain walls in ultrathin ferromagnets revealed by scanning nanomagnetometry</title>
+      <link>/publication/tetienne-2015-ka/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/tetienne-2015-ka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spintronic devices as key elements for energy-efficient neuroinspired architectures</title>
+      <link>/publication/locatelli-2015-uc/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/locatelli-2015-uc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Noise-Enhanced Synchronization of Stochastic Magnetic Oscillators</title>
+      <link>/publication/locatelli-2014-ii/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/locatelli-2014-ii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spin torque nanodevices for bio-inspired computing</title>
+      <link>/publication/locatelli-2014-kk/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/locatelli-2014-kk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Breathing modes of confined skyrmions in ultrathin magnetic dots</title>
+      <link>/publication/kim-2014-cm/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/kim-2014-cm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solid-state physics: Siphoning spins</title>
+      <link>/publication/kim-2014-dm/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/kim-2014-dm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nanoscale imaging and control of domain-wall hopping with a nitrogen-vacancy center microscope</title>
+      <link>/publication/tetienne-2014-bm/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/tetienne-2014-bm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonreciprocal spin-wave channeling along textures driven by the Dzyaloshinskii-Moriya interaction</title>
+      <link>/publication/garcia-sanchez-2014-dw/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/garcia-sanchez-2014-dw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Propagation of magnetic vortices using nanocontacts as tunable attractors</title>
+      <link>/publication/manfrini-2014-bl/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/manfrini-2014-bl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low depinning fields in Ta-CoFeB-MgO ultrathin films with perpendicular magnetic anisotropy</title>
+      <link>/publication/burrowes-2013-jl/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/burrowes-2013-jl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Damping of CoxFe80xB20 ultrathin films with perpendicular magnetic anisotropy</title>
+      <link>/publication/devolder-2013-hq/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/devolder-2013-hq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strain-controlled magnetic domain wall propagation in hybrid piezoelectric/ferromagnetic structures</title>
+      <link>/publication/lei-2013-es/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/lei-2013-es/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Domain wall motion in nanopillar spin-valves with perpendicular anisotropy driven by spin-transfer torques</title>
+      <link>/publication/cucchiara-2012-ky/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/cucchiara-2012-ky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spin-torque oscillators</title>
+      <link>/publication/kim-2012-du/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/kim-2012-du/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding Nanoscale Temperature Gradients in Magnetic Nanocontacts</title>
+      <link>/publication/petit-watelot-2012-ik/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/petit-watelot-2012-ik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magnetic Vortex Core Oscillations in Multi Point Contact Spin Valve Stacks</title>
+      <link>/publication/hrkac-2012-en/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/hrkac-2012-en/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Material parameters and thermal stability of synthetic ferrimagnet free layers in magnetic tunnel junction nanopillars</title>
+      <link>/publication/marko-2012-eh/</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/marko-2012-eh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Commensurability and chaos in magnetic vortex oscillations</title>
+      <link>/publication/petit-watelot-2012-be/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/petit-watelot-2012-be/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perpendicular-magnetic-anisotropy CoFeB racetrack memory</title>
+      <link>/publication/zhang-2012-ev/</link>
+      <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/zhang-2012-ev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compact Modeling of Perpendicular-Anisotropy CoFeB/MgO Magnetic Tunnel Junctions</title>
+      <link>/publication/zhang-2012-ej/</link>
+      <pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/zhang-2012-ej/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast magnetization switching in GaMnAs induced by electrical fields</title>
+      <link>/publication/balestriere-2011-ca/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/balestriere-2011-ca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Configuration and temperature dependence of magnetic damping in spin valves</title>
+      <link>/publication/joyeux-2011-hd/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/joyeux-2011-hd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nanocontact size dependence of the properties of vortex-based spin torque oscillators</title>
+      <link>/publication/otxoa-2011-do/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/otxoa-2011-do/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Des Solitons à l&#39;horizon</title>
+      <link>/publication/kim-2011-tr/</link>
+      <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/kim-2011-tr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vortex Nucleation Phase in Spin Torque Oscillators Based on Nanocontacts</title>
+      <link>/publication/devolder-2011-iw/</link>
+      <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/devolder-2011-iw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frequency shift keying in vortex-based spin torque oscillators</title>
+      <link>/publication/manfrini-2011-id/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/manfrini-2011-id/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spin-torque switching window, thermal stability, and material parameters of MgO tunnel junctions</title>
+      <link>/publication/devolder-2011-iz/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/devolder-2011-iz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A compact model of domain wall propagation for logic and memory design</title>
+      <link>/publication/zhao-2011-fo/</link>
+      <pubDate>Tue, 01 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/zhao-2011-fo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vortex nucleation in spin-torque nanocontact oscillators</title>
+      <link>/publication/devolder-2010-dy/</link>
+      <pubDate>Sun, 01 Aug 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/devolder-2010-dy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct experimental measurement of phase-amplitude coupling in spin torque oscillators</title>
+      <link>/publication/bianchini-2010-eq/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/bianchini-2010-eq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence of oscillation modes on the line width of rf emissions in MgO based nanopillars</title>
+      <link>/publication/hrkac-2010-kb/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/hrkac-2010-kb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Free layer versus synthetic ferrimagnet layer auto-oscillations in nanopillars processed from MgO-based magnetic tunnel junctions</title>
+      <link>/publication/cornelissen-2010-dz/</link>
+      <pubDate>Thu, 01 Apr 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/cornelissen-2010-dz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantized spin-wave modes in magnetic tunnel junction nanopillars</title>
+      <link>/publication/helmer-2010-ht/</link>
+      <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/helmer-2010-ht/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-adiabatic spin-torques in narrow magnetic domain walls</title>
+      <link>/publication/burrowes-2010-fl/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/burrowes-2010-fl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence of magnetic viscosity on domain wall dynamics under spin-polarized currents</title>
+      <link>/publication/kim-2009-hq/</link>
+      <pubDate>Tue, 01 Dec 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/kim-2009-hq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agility of vortex-based nanocontact spin torque oscillators</title>
+      <link>/publication/manfrini-2009-jc/</link>
+      <pubDate>Sun, 01 Nov 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/manfrini-2009-jc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Auto-oscillation and narrow spectral lines in spin-torque oscillators based on MgO magnetic tunnel junctions</title>
+      <link>/publication/devolder-2009-fh/</link>
+      <pubDate>Sun, 01 Nov 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/devolder-2009-fh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Current-driven vortex oscillations in metallic nanocontacts: zero-field oscillations and training effects</title>
+      <link>/publication/van-kampen-2009-do/</link>
+      <pubDate>Sun, 01 Nov 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/van-kampen-2009-do/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Auto-oscillation threshold and line narrowing in MgO-based spin-torque oscillators</title>
+      <link>/publication/cornelissen-2009-id/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/cornelissen-2009-id/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamics of the exchange field supplied by MnIr layers studied by network analyzer ferromagnetic resonance</title>
+      <link>/publication/bilzer-2009-ku/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/bilzer-2009-ku/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental study of current-driven vortex oscillations in magnetic nanocontacts</title>
+      <link>/publication/devolder-2009-db/</link>
+      <pubDate>Sat, 01 Aug 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/devolder-2009-db/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time-resolved zero field vortex oscillations in point contacts</title>
+      <link>/publication/devolder-2009-bg/</link>
+      <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/devolder-2009-bg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct measurement of current-induced fieldlike torque in magnetic tunnel junctions</title>
+      <link>/publication/devolder-2009-jf/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/devolder-2009-jf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spin-wave contributions to current-induced domain wall dynamics</title>
+      <link>/publication/le-maho-2009-ee/</link>
+      <pubDate>Fri, 01 May 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/le-maho-2009-ee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of patterning on the saturation magnetization in MgO based nanopillars</title>
+      <link>/publication/cornelissen-2009-gt/</link>
+      <pubDate>Sun, 01 Feb 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/cornelissen-2009-gt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metal spintronics: Electronics free of charge</title>
+      <link>/publication/chappert-2008-bm/</link>
+      <pubDate>Sat, 01 Nov 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/chappert-2008-bm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temperature dependence of nonlinear auto-oscillator linewidths: Application to spin-torque nano-oscillators</title>
+      <link>/publication/tiberkevich-2008-jh/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/tiberkevich-2008-jh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Current-Driven Vortex Oscillations in Metallic Nanocontacts</title>
+      <link>/publication/mistral-2008-js/</link>
+      <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/mistral-2008-js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Line Shape Distortion in a Nonlinear Auto-Oscillator Near Generation Threshold: Application to Spin-Torque Nano-Oscillators</title>
+      <link>/publication/kim-2008-gs/</link>
+      <pubDate>Tue, 01 Apr 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/kim-2008-gs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electrical time-domain observation of magnetization switching induced by spin transfer in magnetic nanostructures (invited)</title>
+      <link>/publication/devolder-2008-jl/</link>
+      <pubDate>Sat, 01 Mar 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/devolder-2008-jl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-Shot Time-Resolved Measurements of Nanosecond-Scale Spin-Transfer Induced Switching: Stochastic Versus Deterministic Aspects</title>
+      <link>/publication/devolder-2008-ci/</link>
+      <pubDate>Fri, 01 Feb 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/devolder-2008-ci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generation Linewidth of an Auto-Oscillator with a Nonlinear Frequency Shift: Spin-Torque Nano-Oscillator</title>
+      <link>/publication/kim-2008-ic/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/kim-2008-ic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microwave power generated by a spin-torque oscillator in the presence of noise</title>
+      <link>/publication/tiberkevich-2007-fd/</link>
+      <pubDate>Thu, 01 Nov 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/tiberkevich-2007-fd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Study of the dynamic magnetic properties of soft CoFeB films</title>
+      <link>/publication/bilzer-2006-ke/</link>
+      <pubDate>Fri, 01 Sep 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/bilzer-2006-ke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temperature Dependences of the Resistivity and the Ferromagnetic Resonance Linewidth in Permalloy Thin Films</title>
+      <link>/publication/counil-2006-bb/</link>
+      <pubDate>Fri, 01 Sep 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/counil-2006-bb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Current-driven microwave oscillations in current perpendicular-to-plane spin-valve nanopillars</title>
+      <link>/publication/mistral-2006-er/</link>
+      <pubDate>Mon, 01 May 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/mistral-2006-er/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic theory of spin-transfer oscillator linewidths</title>
+      <link>/publication/kim-2006-im/</link>
+      <pubDate>Mon, 01 May 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/kim-2006-im/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magnetization switching by spin torque using subnanosecond current pulses assisted by hard axis magnetic fields</title>
+      <link>/publication/devolder-2006-ij/</link>
+      <pubDate>Sat, 01 Apr 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/devolder-2006-ij/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Precession-dominated reversal of synthetic antiferromagnets and synthetic ferrimagnets</title>
+      <link>/publication/maufront-2005-bq/</link>
+      <pubDate>Sat, 01 Oct 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/maufront-2005-bq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bit selection scheme and dipolar interactions in high density precessional MRAM</title>
+      <link>/publication/devolder-2005-gl/</link>
+      <pubDate>Fri, 01 Jul 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/devolder-2005-gl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magnetic anisotropy of epitaxial MgO$slash$Fe$slash$MgO films studied by network analyzer ferromagnetic resonance</title>
+      <link>/publication/counil-2005-bn/</link>
+      <pubDate>Fri, 01 Jul 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/counil-2005-bn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hysteresis from antiferromagnet domain-wall processes in exchange-biased systems: Magnetic defects and thermal effects</title>
+      <link>/publication/kim-2005-jf/</link>
+      <pubDate>Tue, 01 Mar 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/kim-2005-jf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hysteresis from antiferromagnet domain-wall processes in exchange biased systems</title>
+      <link>/publication/kim-2005-ke/</link>
+      <pubDate>Tue, 01 Feb 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/kim-2005-ke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magnetization dynamics in spin-valve structures with spin pumping</title>
+      <link>/publication/kim-2005-gr/</link>
+      <pubDate>Tue, 01 Feb 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/kim-2005-gr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Precession-dominated switching of synthetic antiferromagnets</title>
+      <link>/publication/kim-2004-ed/</link>
+      <pubDate>Mon, 01 Nov 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/kim-2004-ed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inductive measurement of the high frequency permeability of a Permalloy thin film</title>
+      <link>/publication/counil-2004-ex/</link>
+      <pubDate>Sat, 01 May 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/counil-2004-ex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spin wave contributions to the high-frequency magnetic response of thin films obtained with inductive methods</title>
+      <link>/publication/counil-2004-iv/</link>
+      <pubDate>Sat, 01 May 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/counil-2004-iv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phase diagrams and energy barriers of exchange-biased bilayers with additional anisotropies in the ferromagnet</title>
+      <link>/publication/mewes-2003-gc/</link>
+      <pubDate>Sat, 01 Mar 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/mewes-2003-gc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exchange bias of polycrystalline antiferromagnets with perfectly compensated interfaces</title>
+      <link>/publication/suess-2003-bw/</link>
+      <pubDate>Sat, 01 Feb 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/suess-2003-bw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Micromagnetic simulation of antiferromagnetic/ferromagnetic structures</title>
+      <link>/publication/suess-2002-ci/</link>
+      <pubDate>Sun, 01 Sep 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/suess-2002-ci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probing antiferromagnetic order with heat capacity in exchange-biased structures</title>
+      <link>/publication/kim-2002-vb/</link>
+      <pubDate>Fri, 01 Feb 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/kim-2002-vb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Defect-modified exchange bias</title>
+      <link>/publication/kim-2001-tw/</link>
+      <pubDate>Mon, 01 Oct 2001 00:00:00 +0000</pubDate>
+      <guid>/publication/kim-2001-tw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theory of long-wavelength spin waves in exchange biased bilayers</title>
+      <link>/publication/kim-2001-ju/</link>
+      <pubDate>Fri, 01 Jun 2001 00:00:00 +0000</pubDate>
+      <guid>/publication/kim-2001-ju/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roughness-induced instability in stripe domain patterns</title>
+      <link>/publication/kim-2000-kq/</link>
+      <pubDate>Fri, 01 Sep 2000 00:00:00 +0000</pubDate>
+      <guid>/publication/kim-2000-kq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Angular dependence and interfacial roughness in exchange-biased ferromagnetic/antiferromagnetic bilayers</title>
+      <link>/publication/kim-2000-gc/</link>
+      <pubDate>Sat, 01 Apr 2000 00:00:00 +0000</pubDate>
+      <guid>/publication/kim-2000-gc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temperature dependence of exchange biased thin films</title>
+      <link>/publication/mc-grath-bv-2000-us/</link>
+      <pubDate>Sat, 01 Apr 2000 00:00:00 +0000</pubDate>
+      <guid>/publication/mc-grath-bv-2000-us/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exchange bias: interface imperfections and temperature dependence</title>
+      <link>/publication/kim-1999-ck/</link>
+      <pubDate>Wed, 01 Sep 1999 00:00:00 +0000</pubDate>
+      <guid>/publication/kim-1999-ck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magnetization dynamics: A study of the ferromagnet/antiferromagnet interface and exchange biasing</title>
+      <link>/publication/camley-1999-fy/</link>
+      <pubDate>Thu, 01 Jul 1999 00:00:00 +0000</pubDate>
+      <guid>/publication/camley-1999-fy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magnetic properties of self-organized epitaxial cobalt structures</title>
+      <link>/publication/demand-1999-ur/</link>
+      <pubDate>Thu, 01 Apr 1999 00:00:00 +0000</pubDate>
+      <guid>/publication/demand-1999-ur/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

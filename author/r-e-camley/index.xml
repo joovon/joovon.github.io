@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R E Camley | joovonkim</title>
+    <link>/author/r-e-camley/</link>
+      <atom:link href="/author/r-e-camley/index.xml" rel="self" type="application/rss+xml" />
+    <description>R E Camley</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Joo-Von Kim (2020)</copyright><lastBuildDate>Mon, 31 Aug 2020 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>R E Camley</title>
+      <link>/author/r-e-camley/</link>
+    </image>
+    
+    <item>
+      <title>Skyrmiogenesis: Asymmetric skyrmion-antiskyrmion production in ultrathin ferromagnetic films</title>
+      <link>/talk/my-talk-name/</link>
+      <pubDate>Mon, 31 Aug 2020 00:00:00 +0200</pubDate>
+      <guid>/talk/my-talk-name/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asymmetric skyrmion-antiskyrmion production in ultrathin ferromagnetic films</title>
+      <link>/publication/ritzmann-2020-arxiv-skyrmio/</link>
+      <pubDate>Tue, 21 Jul 2020 12:21:45 +0000</pubDate>
+      <guid>/publication/ritzmann-2020-arxiv-skyrmio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spin Waves on Spin Structures: Topology, Localization, and Nonreciprocity</title>
+      <link>/publication/stamps-2017-cs/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/stamps-2017-cs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spin Wave Power Flow and Caustics in Ultrathin Ferromagnets with the Dzyaloshinskii-Moriya Interaction</title>
+      <link>/publication/kim-2016-cw/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/kim-2016-cw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probing antiferromagnetic order with heat capacity in exchange-biased structures</title>
+      <link>/publication/kim-2002-vb/</link>
+      <pubDate>Fri, 01 Feb 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/kim-2002-vb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Angular dependence and interfacial roughness in exchange-biased ferromagnetic/antiferromagnetic bilayers</title>
+      <link>/publication/kim-2000-gc/</link>
+      <pubDate>Sat, 01 Apr 2000 00:00:00 +0000</pubDate>
+      <guid>/publication/kim-2000-gc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temperature dependence of exchange biased thin films</title>
+      <link>/publication/mc-grath-bv-2000-us/</link>
+      <pubDate>Sat, 01 Apr 2000 00:00:00 +0000</pubDate>
+      <guid>/publication/mc-grath-bv-2000-us/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magnetization dynamics: A study of the ferromagnet/antiferromagnet interface and exchange biasing</title>
+      <link>/publication/camley-1999-fy/</link>
+      <pubDate>Thu, 01 Jul 1999 00:00:00 +0000</pubDate>
+      <guid>/publication/camley-1999-fy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

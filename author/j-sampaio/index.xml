@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J Sampaio | joovonkim</title>
+    <link>/author/j-sampaio/</link>
+      <atom:link href="/author/j-sampaio/index.xml" rel="self" type="application/rss+xml" />
+    <description>J Sampaio</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Joo-Von Kim (2020)</copyright><lastBuildDate>Fri, 01 Jul 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>J Sampaio</title>
+      <link>/author/j-sampaio/</link>
+    </image>
+    
+    <item>
+      <title>A skyrmion-based spin-torque nano-oscillator</title>
+      <link>/publication/garcia-sanchez-2016-cx/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/garcia-sanchez-2016-cx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Breathing modes of confined skyrmions in ultrathin magnetic dots</title>
+      <link>/publication/kim-2014-cm/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/kim-2014-cm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
