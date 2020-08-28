@@ -30,10 +30,10 @@
   
     
   
-  <meta name="description" content="Flipping spins in the heart of Silicon Vauve">
+  <meta name="description" content="An implementation of a lattice-based approach for computing the topological skyrmion charge is provided for the open source micromagnetics code mumax3. Its accuracy with respect to an existing method based on finite difference derivatives is compared for three different test cases. The lattice-based approach is found to be more robust for finite-temperature dynamics and for nucleation and annihilation processes in extended systems.">
 
   
-  <link rel="alternate" hreflang="en-us" href="/authors/">
+  <link rel="alternate" hreflang="en-us" href="/publication/kim-2020-oq/">
 
   
 
@@ -225,14 +225,12 @@
   
 
   
-  <link rel="alternate" href="/authors/index.xml" type="application/rss+xml" title="joovonkim">
-  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="/authors/">
+  <link rel="canonical" href="/publication/kim-2020-oq/">
 
   
   
@@ -242,38 +240,87 @@
   
   
     
-    
   
   
-  <meta property="twitter:card" content="summary">
+  <meta property="twitter:card" content="summary_large_image">
   
   <meta property="twitter:site" content="@joovon">
   <meta property="twitter:creator" content="@joovon">
   
   <meta property="og:site_name" content="joovonkim">
-  <meta property="og:url" content="/authors/">
-  <meta property="og:title" content="Authors | joovonkim">
-  <meta property="og:description" content="Flipping spins in the heart of Silicon Vauve"><meta property="og:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
-  <meta property="twitter:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
+  <meta property="og:url" content="/publication/kim-2020-oq/">
+  <meta property="og:title" content="On quantifying the topological charge in micromagnetics using a lattice-based approach | joovonkim">
+  <meta property="og:description" content="An implementation of a lattice-based approach for computing the topological skyrmion charge is provided for the open source micromagnetics code mumax3. Its accuracy with respect to an existing method based on finite difference derivatives is compared for three different test cases. The lattice-based approach is found to be more robust for finite-temperature dynamics and for nucleation and annihilation processes in extended systems."><meta property="og:image" content="/publication/kim-2020-oq/featured.png">
+  <meta property="twitter:image" content="/publication/kim-2020-oq/featured.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2020-08-31T00:00:00&#43;02:00">
+    
+      <meta property="article:published_time" content="2020-08-28T14:05:10&#43;00:00">
+    
+    <meta property="article:modified_time" content="2020-08-28T00:00:00&#43;00:00">
   
-
-  
-
-
-
 
   
 
 
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "/publication/kim-2020-oq/"
+  },
+  "headline": "On quantifying the topological charge in micromagnetics using a lattice-based approach",
+  
+  "image": [
+    "/publication/kim-2020-oq/featured.png"
+  ],
+  
+  "datePublished": "2020-08-28T14:05:10Z",
+  "dateModified": "2020-08-28T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Joo-Von Kim"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "joovonkim",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png"
+    }
+  },
+  "description": "An implementation of a lattice-based approach for computing the topological skyrmion charge is provided for the open source micromagnetics code mumax3. Its accuracy with respect to an existing method based on finite difference derivatives is compared for three different test cases. The lattice-based approach is found to be more robust for finite-temperature dynamics and for nucleation and annihilation processes in extended systems."
+}
+</script>
+
+  
+
+  
+
+
+  
+
+
   
 
 
 
 
 
-  <title>Authors | joovonkim</title>
+  <title>On quantifying the topological charge in micromagnetics using a lattice-based approach | joovonkim</title>
 
 </head>
 <body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
@@ -535,89 +582,364 @@
 </nav>
 
 
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
+  <div class="pub">
 
   
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<div class="article-container pt-3">
+  <h1>On quantifying the topological charge in micromagnetics using a lattice-based approach</h1>
+
+  
+
+  
+
+
+<div class="article-metadata">
+
   
   
   
+  
+  <div>
     
+
   
-<div class="universal-wrapper pt-3">
-  <h1>Authors</h1>
+  <span >Joo-Von Kim</span>, <span >Jeroen Mulkers</span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Fri 28 Aug 2020
+  </span>
+  
 
   
 
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/publication/kim-2020-oq/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.1088/2633-1357/abad0c" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+</div>
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 441px; max-height: 379px;">
+  <div style="position: relative">
+    <img src="/publication/kim-2020-oq/featured.png" alt="" class="featured-image">
+    
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract">An implementation of a lattice-based approach for computing the topological skyrmion charge is provided for the open source micromagnetics code mumax3. Its accuracy with respect to an existing method based on finite difference derivatives is compared for three different test cases. The lattice-based approach is found to be more robust for finite-temperature dynamics and for nucleation and annihilation processes in extended systems.</p>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#2">
+              Journal article
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9"><em>IOP SciNotes</em></div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/skyrmions/">skyrmions</a>
+  
+  <a class="badge badge-light" href="/tag/micromagnetics/">micromagnetics</a>
   
 </div>
 
 
 
-<div class="universal-wrapper">
-  
-
-  <ul>
-    
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
     
       
-      <li><a href="/author/d-bedau/">D Bedau</a></li>
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=/publication/kim-2020-oq/&amp;text=On%20quantifying%20the%20topological%20charge%20in%20micromagnetics%20using%20a%20lattice-based%20approach" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
     
       
-      <li><a href="/author/d-gopman/">D Gopman</a></li>
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=/publication/kim-2020-oq/&amp;t=On%20quantifying%20the%20topological%20charge%20in%20micromagnetics%20using%20a%20lattice-based%20approach" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
     
       
-      <li><a href="/author/j-a-katine/">J A Katine</a></li>
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=On%20quantifying%20the%20topological%20charge%20in%20micromagnetics%20using%20a%20lattice-based%20approach&amp;body=/publication/kim-2020-oq/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
     
       
-      <li><a href="/author/j-cucchiara/">J Cucchiara</a></li>
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=/publication/kim-2020-oq/&amp;title=On%20quantifying%20the%20topological%20charge%20in%20micromagnetics%20using%20a%20lattice-based%20approach" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
     
       
-      <li><a href="/author/s-le-gall/">S Le Gall</a></li>
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=On%20quantifying%20the%20topological%20charge%20in%20micromagnetics%20using%20a%20lattice-based%20approach%20/publication/kim-2020-oq/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
     
       
-      <li><a href="/author/s-mangin/">S Mangin</a></li>
-    
       
-      <li><a href="/author/d-hahn/">D Hahn</a></li>
-    
       
-      <li><a href="/author/g-hrkac/">G Hrkac</a></li>
-    
+        
       
-      <li><a href="/author/l-saharan/">L Saharan</a></li>
-    
       
-      <li><a href="/author/t-schrefl/">T Schrefl</a></li>
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=/publication/kim-2020-oq/&amp;title=On%20quantifying%20the%20topological%20charge%20in%20micromagnetics%20using%20a%20lattice-based%20approach" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
     
   </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
 
   
-<nav>
-  <ul class="pagination justify-content-center">
-    
-    <li class="page-item"><a class="page-link" href="/authors/page/16/">&laquo;</a></li>
     
     
-    <li class="page-item"><a class="page-link" href="/authors/page/18/">&raquo;</a></li>
-    
-  </ul>
-</nav>
 
 
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/publication/yoo-2020-arxiv-vortex/">Analytical model of the inertial dynamics of a magnetic vortex</a></li>
+      
+      <li><a href="/publication/ritzmann-2018-cc/">Trochoidal motion and pair generation in skyrmion and antiskyrmion dynamics under spin–orbit torques</a></li>
+      
+      <li><a href="/project/topsky/">TOPSKY</a></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+
+
+  </div>
 </div>
 
       
