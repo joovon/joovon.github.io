@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>joovonkim</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Joo-Von Kim (2020)</copyright><lastBuildDate>Tue, 01 Sep 2020 18:04:16 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Joo-Von Kim (2020)</copyright><lastBuildDate>Wed, 16 Sep 2020 18:25:09 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>joovonkim</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>Entropy-Reduced retention times in magnetic memory elements: A case of the Meyer-Neldel Compensation Rule</title>
-      <link>/publication/desplat-2020-er/</link>
-      <pubDate>Tue, 01 Sep 2020 18:04:16 +0000</pubDate>
-      <guid>/publication/desplat-2020-er/</guid>
+      <title>Effects of delayed feedback on the power spectrum of spin-torque nano-oscillators</title>
+      <link>/publication/williame-2020-stno/</link>
+      <pubDate>Wed, 16 Sep 2020 18:25:09 +0200</pubDate>
+      <guid>/publication/williame-2020-stno/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Skyrmiogenesis: Asymmetric skyrmion-antiskyrmion production in ultrathin ferromagnetic films</title>
-      <link>/talk/my-talk-name/</link>
-      <pubDate>Mon, 31 Aug 2020 00:00:00 +0200</pubDate>
-      <guid>/talk/my-talk-name/</guid>
+      <link>/talk/skyrmiogenesis-cmd2020gefes/</link>
+      <pubDate>Wed, 02 Sep 2020 10:10:00 +0200</pubDate>
+      <guid>/talk/skyrmiogenesis-cmd2020gefes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entropy-Reduced retention times in magnetic memory elements: A case of the Meyer-Neldel Compensation Rule</title>
+      <link>/publication/desplat-2020-er/</link>
+      <pubDate>Tue, 01 Sep 2020 18:04:16 +0000</pubDate>
+      <guid>/publication/desplat-2020-er/</guid>
       <description></description>
     </item>
     
@@ -92,14 +100,6 @@
       <link>/publication/yoo-2020-arxiv-vortex/</link>
       <pubDate>Thu, 04 Jun 2020 14:04:27 +0000</pubDate>
       <guid>/publication/yoo-2020-arxiv-vortex/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Effects of delayed feedback on the power spectrum of spin-torque nano-oscillators</title>
-      <link>/publication/williame-2020-arxiv-stno/</link>
-      <pubDate>Thu, 21 May 2020 18:25:09 +0200</pubDate>
-      <guid>/publication/williame-2020-arxiv-stno/</guid>
       <description></description>
     </item>
     

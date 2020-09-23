@@ -4,16 +4,96 @@
   
   <url>
     <loc>/publication-type/2/</loc>
-    <lastmod>2020-09-01T18:04:16+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/arrhenius/</loc>
-    <lastmod>2020-09-01T18:04:16+00:00</lastmod>
+    <lastmod>2020-09-16T18:25:09+02:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
+    <lastmod>2020-09-16T18:25:09+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/delayed-feedback/</loc>
+    <lastmod>2020-09-16T18:25:09+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/williame-2020-stno/</loc>
+    <lastmod>2020-09-16T18:25:09+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/j-williame/</loc>
+    <lastmod>2020-09-16T18:25:09+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/j-v-kim/</loc>
+    <lastmod>2020-09-16T18:25:09+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-09-16T18:25:09+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-09-16T18:25:09+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-09-16T18:25:09+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/spin-torque-nano-oscillators/</loc>
+    <lastmod>2020-09-16T18:25:09+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/stochastic-processes/</loc>
+    <lastmod>2020-09-16T18:25:09+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-09-16T18:25:09+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/b-dupe/</loc>
+    <lastmod>2020-09-02T10:10:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/l-desplat/</loc>
+    <lastmod>2020-09-02T10:10:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/r-e-camley/</loc>
+    <lastmod>2020-09-02T10:10:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2020-09-02T10:10:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/skyrmiogenesis-cmd2020gefes/</loc>
+    <lastmod>2020-09-02T10:10:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/u-ritzmann/</loc>
+    <lastmod>2020-09-02T10:10:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/arrhenius/</loc>
     <lastmod>2020-09-01T18:04:16+00:00</lastmod>
   </url>
   
@@ -23,68 +103,13 @@
   </url>
   
   <url>
-    <loc>/author/j-v-kim/</loc>
-    <lastmod>2020-09-01T18:04:16+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2020-09-01T18:04:16+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/l-desplat/</loc>
-    <lastmod>2020-09-01T18:04:16+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tag/meyer-neldel/</loc>
-    <lastmod>2020-09-01T18:04:16+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-09-01T18:04:16+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-09-01T18:04:16+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-09-01T18:04:16+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tag/thermal-activation/</loc>
     <lastmod>2020-09-01T18:04:16+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/b-dupe/</loc>
-    <lastmod>2020-08-31T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/r-e-camley/</loc>
-    <lastmod>2020-08-31T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
-    <lastmod>2020-08-31T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/my-talk-name/</loc>
-    <lastmod>2020-08-31T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/u-ritzmann/</loc>
-    <lastmod>2020-08-31T00:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -275,16 +300,6 @@
   <url>
     <loc>/tag/magnetization-dynamics/</loc>
     <lastmod>2020-06-04T14:04:27+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/williame-2020-arxiv-stno/</loc>
-    <lastmod>2020-05-21T18:25:09+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/j-williame/</loc>
-    <lastmod>2020-05-21T18:25:09+02:00</lastmod>
   </url>
   
   <url>
