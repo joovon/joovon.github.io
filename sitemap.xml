@@ -2,41 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/about/</loc>
+    <loc>https://lab.joovon.kim/about/</loc>
     <lastmod>2024-05-06T01:40:13+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/publications/articles/</loc>
+    <loc>https://lab.joovon.kim/publications/articles/</loc>
     <lastmod>2024-05-06T01:40:13+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/publications/chapters/</loc>
+    <loc>https://lab.joovon.kim/publications/chapters/</loc>
     <lastmod>2024-05-06T01:40:13+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/publications/dissertations/</loc>
+    <loc>https://lab.joovon.kim/publications/dissertations/</loc>
     <lastmod>2024-05-06T01:40:13+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://lab.joovon.kim/</loc>
     <lastmod>2024-05-06T01:40:13+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/presentations/invited/</loc>
+    <loc>https://lab.joovon.kim/presentations/invited/</loc>
     <lastmod>2024-05-06T01:40:13+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/presentations/</loc>
+    <loc>https://lab.joovon.kim/presentations/</loc>
     <lastmod>2024-05-06T01:40:13+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/publications/</loc>
+    <loc>https://lab.joovon.kim/publications/</loc>
     <lastmod>2024-05-06T01:40:13+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/presentations/regular/</loc>
+    <loc>https://lab.joovon.kim/presentations/regular/</loc>
     <lastmod>2024-05-06T01:40:13+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/presentations/seminars/</loc>
+    <loc>https://lab.joovon.kim/presentations/seminars/</loc>
     <lastmod>2024-05-06T01:40:13+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/teaching/</loc>
+    <loc>https://lab.joovon.kim/teaching/</loc>
     <lastmod>2024-05-06T01:40:13+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://lab.joovon.kim/categories/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://lab.joovon.kim/tags/</loc>
   </url>
 </urlset>
