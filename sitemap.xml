@@ -2,37 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lab.joovon.kim/cv/</loc>
+    <loc>https://lab.joovon.kim/docs/cv/</loc>
+    <lastmod>2025-06-07T05:40:13+00:00</lastmod>
+  </url><url>
+    <loc>https://lab.joovon.kim/docs/</loc>
     <lastmod>2025-06-07T05:40:13+00:00</lastmod>
   </url><url>
     <loc>https://lab.joovon.kim/</loc>
     <lastmod>2025-06-07T05:40:13+00:00</lastmod>
   </url><url>
-    <loc>https://lab.joovon.kim/publications/articles/</loc>
+    <loc>https://lab.joovon.kim/docs/teaching/</loc>
+    <lastmod>2024-06-07T19:06:59+02:00</lastmod>
+  </url><url>
+    <loc>https://lab.joovon.kim/docs/teaching/esm/</loc>
+    <lastmod>2024-06-07T19:06:59+02:00</lastmod>
+  </url><url>
+    <loc>https://lab.joovon.kim/docs/presentations/</loc>
     <lastmod>2024-05-06T01:40:13+00:00</lastmod>
   </url><url>
-    <loc>https://lab.joovon.kim/publications/chapters/</loc>
+    <loc>https://lab.joovon.kim/docs/publications/</loc>
     <lastmod>2024-05-06T01:40:13+00:00</lastmod>
   </url><url>
-    <loc>https://lab.joovon.kim/publications/dissertations/</loc>
+    <loc>https://lab.joovon.kim/docs/teaching/nanosaclay/2013/</loc>
     <lastmod>2024-05-06T01:40:13+00:00</lastmod>
   </url><url>
-    <loc>https://lab.joovon.kim/presentations/invited/</loc>
+    <loc>https://lab.joovon.kim/docs/teaching/nanosaclay/2014/</loc>
     <lastmod>2024-05-06T01:40:13+00:00</lastmod>
   </url><url>
-    <loc>https://lab.joovon.kim/presentations/</loc>
+    <loc>https://lab.joovon.kim/docs/publications/articles/</loc>
     <lastmod>2024-05-06T01:40:13+00:00</lastmod>
   </url><url>
-    <loc>https://lab.joovon.kim/publications/</loc>
+    <loc>https://lab.joovon.kim/docs/publications/chapters/</loc>
     <lastmod>2024-05-06T01:40:13+00:00</lastmod>
   </url><url>
-    <loc>https://lab.joovon.kim/presentations/regular/</loc>
+    <loc>https://lab.joovon.kim/docs/publications/dissertations/</loc>
     <lastmod>2024-05-06T01:40:13+00:00</lastmod>
   </url><url>
-    <loc>https://lab.joovon.kim/presentations/seminars/</loc>
+    <loc>https://lab.joovon.kim/docs/presentations/invited/</loc>
     <lastmod>2024-05-06T01:40:13+00:00</lastmod>
   </url><url>
-    <loc>https://lab.joovon.kim/teaching/</loc>
+    <loc>https://lab.joovon.kim/docs/teaching/nanosaclay/</loc>
+    <lastmod>2024-05-06T01:40:13+00:00</lastmod>
+  </url><url>
+    <loc>https://lab.joovon.kim/docs/teaching/others/</loc>
+    <lastmod>2024-05-06T01:40:13+00:00</lastmod>
+  </url><url>
+    <loc>https://lab.joovon.kim/docs/presentations/regular/</loc>
+    <lastmod>2024-05-06T01:40:13+00:00</lastmod>
+  </url><url>
+    <loc>https://lab.joovon.kim/docs/presentations/seminars/</loc>
     <lastmod>2024-05-06T01:40:13+00:00</lastmod>
   </url><url>
     <loc>https://lab.joovon.kim/categories/</loc>
